@@ -6,8 +6,8 @@ body
 
 #head
 {
-    margin-top: 5%;
-    margin-left: 32%;
+    margin-top: 3%;
+    text-align: center;
     color: white
 }
 
@@ -55,6 +55,7 @@ body
 {
     margin-top: 1%;
     margin-left: 37.5%;
+    margin-right: 37.5%;
     color: rgb(100, 100, 100);
 }
 
@@ -63,7 +64,7 @@ body
 {
     font-weight: 625;
     margin-top: 5%;
-    font-size: 15px;
+    font-size: 20px;
     text-align: center;
     color: rgb(65, 65, 65); 
 }
