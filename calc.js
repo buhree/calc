@@ -195,18 +195,18 @@ class cmplx
         let imstr = "";
         if (im < 0)
         {
-            imstr = "- " + -im + "i";
+            imstr = " - " + -im + "i";
             if (im == -1)
             {
-                imstr = "- i";
+                imstr = " - i";
             }
         }
         else if (im > 0)
         {
-            imstr = "+ " + im + "i";
+            imstr = " + " + im + "i";
             if (im == 1)
             {
-                imstr = "+ i";
+                imstr = " + i";
             }
         }
         else
