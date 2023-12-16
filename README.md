@@ -1,5 +1,5 @@
 # Calculator for elementary functions (and other stuff)
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://youtu.be/6SZ5ypZaHSM>
 #### Description:
 Elementary functions are foundational building blocks of technical STEM fields, including mathematics, physics, computer science and especially engineering.
 
